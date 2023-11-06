@@ -2,7 +2,7 @@ package ar.edu.unlam.pb2.ea3;
 
 import java.util.Comparator;
 
-public class ordenarPorNombre implements Comparator<Jugador>{
+public class ordenarPorNombre implements Comparator<Jugador> {
 
 	@Override
 	public int compare(Jugador o1, Jugador o2) {

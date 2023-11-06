@@ -60,6 +60,4 @@ public class Jugador {
 		return "Jugador [numero=" + numero + ", nombre=" + nombre + ", precio=" + precio + "]";
 	}
 
-	
-
 }
